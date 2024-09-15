@@ -58,4 +58,3 @@ Brief description of the project, technologies used, and its impact.
 <a href="mailto:melhaddad308@gmail.com"><img src="https://img.shields.io/badge/-melhaddad308@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
----
