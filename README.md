@@ -1,62 +1,52 @@
-## Hey there 👋, I'm [Mohamed El-Haddad!](https://github.com/Haddad308/)
+# Hey there 👋, I'm [Mohamed El-Haddad!](https://github.com/Haddad308/)
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/haddad308)
+[![GitHub followers](https://img.shields.io/github/followers/Haddad308?label=Follow&style=social)](https://github.com/Haddad308)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+## Glad to see you here! 
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. 
+I'm a passionate problem-solver and pioneer of first-principle thinking. My drive comes from the challenge of finding innovative solutions, backed by a strong foundation in JavaScript, Node.js, MongoDB, React, Next.js, AWS, and more.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+As an explorer of new technologies and an avid learner, I'm constantly pushing the boundaries of what's possible in tech. When I'm not coding, you'll find me diving into tech-related YouTube videos, always fueling my curiosity.
 
-### Talking about Personal Stuff:
+📂 [Check out my portfolio](https://your-portfolio-url.com) to see my latest projects and achievements!
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: melhaddad308@gmail.com.
-  
-### My Absolute Favorites:
+## 🛠️ Technologies & Tools
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### Languages and Tools:
+## 🏆 Featured Projects
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+Here are some of my notable projects (also available on my [portfolio](https://your-portfolio-url.com)):
 
-### Projects and Dev Stuffs:
+### [Project Name 1]
+Brief description of the project, technologies used, and its impact.
+[GitHub Repo](link) | [Live Demo](link)
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
+### [Project Name 2]
+Brief description of the project, technologies used, and its impact.
+[GitHub Repo](link) | [Live Demo](link)
 
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haddad308&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haddad308&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=haddad308&hide_border=true" />
-</details>
+### [Project Name 3]
+Brief description of the project, technologies used, and its impact.
+[GitHub Repo](link) | [Live Demo](link)
 
 
+## 🤝 Connect with me
 
-#
+<p align="center">
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/haddad308"><img src="https://img.shields.io/badge/-Mohamed%20El%20Haddad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:melhaddad308@gmail.com"><img src="https://img.shields.io/badge/-melhaddad308@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+---
