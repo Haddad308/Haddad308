@@ -10,7 +10,7 @@ I'm a passionate problem-solver and pioneer of first-principle thinking. My driv
 
 As an explorer of new technologies and an avid learner, I'm constantly pushing the boundaries of what's possible in tech. When I'm not coding, you'll find me diving into tech-related YouTube videos, always fueling my curiosity.
 
-📂 [Check out my portfolio](https://your-portfolio-url.com) (Coming soon) to see my latest projects and achievements!
+📂 [Check out my portfolio](https://your-portfolio-url.com) <b>(Coming soon)<b/>  to see my latest projects and achievements!
 
 ## 🛠️ Technologies & Tools
 
