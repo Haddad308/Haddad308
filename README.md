@@ -37,20 +37,25 @@ As an explorer of new technologies and an avid learner, I'm constantly pushing t
 
 Here are some of my notable projects (also available on my [portfolio](https://your-portfolio-url.com)):
 
-### El-bakheel
+## El-bakheel
 Al-Bakheel is a website that gathers prices from various online stores, simplifying your search and helping you find the best deals.
 [Private src code] | [Live Demo](https://el-bakheel-zeta.vercel.app/en)
 
-### Rebus AI
-Built a sleek, responsive page showcasing Rebus AI’s AI tools.
-<br/>
-[Private src code] | [Live Demo](https://app.rebusai.com/)
-
-### Travel Sync
+## Travel Sync
 A streamlined Reservation System Web app designed for efficient booking and management.
 <br/>
 [GitHub Repo](https://github.com/Haddad308/TravelSync) | [Live Demo](https://travel-sync.vercel.app/login?returnTo=%2F)
 
+## Rebus AI
+Built a sleek, responsive page showcasing Rebus AI’s AI tools.
+<br/>
+[Private src code] | [Live Demo](https://app.rebusai.com/)
+
+
+## FinBiz
+The FinBiz Landing Page is a modern and visually appealing landing page designed to showcase financial business services.
+<br/>
+[GitHub Repo](https://github.com/Haddad308/FinBiz) | [Live Demo](https://fin-biz.vercel.app/en)
 
 ## 🤝 Connect with me
 
