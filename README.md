@@ -39,7 +39,7 @@ Here are some of my notable projects (also available on my [portfolio](https://y
 
 ## El-bakheel
 Al-Bakheel is a website that gathers prices from various online stores, simplifying your search and helping you find the best deals.
-[Private src code] | [Live Demo](https://el-bakheel-zeta.vercel.app/en)
+[Private src code] | [Live Demo](https://el-bakheel.vercel.app/en)
 
 ## Travel Sync
 A streamlined Reservation System Web app designed for efficient booking and management.
