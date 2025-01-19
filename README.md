@@ -6,7 +6,7 @@
 
 ## Glad to see you here! 
 
-I'm a passionate problem-solver and pioneer of first-principle thinking. My drive comes from the challenge of finding innovative solutions, backed by a strong foundation in JavaScript, Node.js, MongoDB, React, Next.js, AWS, and more.
+I'm a passionate problem-solver. My drive comes from the challenge of finding innovative solutions, backed by a strong foundation in JavaScript, Node.js, MongoDB, React, Next.js, AWS, and more.
 
 As an explorer of new technologies and an avid learner, I'm constantly pushing the boundaries of what's possible in tech. When I'm not coding, you'll find me diving into tech-related YouTube videos, always fueling my curiosity.
 
